@@ -1,4 +1,4 @@
-import './App.scss';
+import './components/PostList/PostList.scss';
 
 import postsFromServer from './api/posts.json';
 import commentsFromServer from './api/comments.json';
